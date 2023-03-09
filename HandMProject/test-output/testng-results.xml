@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15818" started-at="2023-02-26T16:24:08Z" finished-at="2023-02-26T16:24:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15818" started-at="2023-02-26T16:24:08Z" finished-at="2023-02-26T16:24:24Z">
+      <class name="excelReadandWrite.DataProviderExample">
+        <test-method status="PASS" signature="before()[pri:0, instance:excelReadandWrite.DataProviderExample@57baeedf]" name="before" is-config="true" duration-ms="6849" started-at="2023-02-26T16:24:02Z" finished-at="2023-02-26T16:24:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="ornHRM(java.lang.String, java.lang.String)[pri:0, instance:excelReadandWrite.DataProviderExample@57baeedf]" name="ornHRM" duration-ms="8441" started-at="2023-02-26T16:24:09Z" data-provider="login" finished-at="2023-02-26T16:24:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ornHRM -->
+        <test-method status="PASS" signature="ornHRM(java.lang.String, java.lang.String)[pri:0, instance:excelReadandWrite.DataProviderExample@57baeedf]" name="ornHRM" duration-ms="1834" started-at="2023-02-26T16:24:17Z" data-provider="login" finished-at="2023-02-26T16:24:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ornHRM -->
+        <test-method status="PASS" signature="ornHRM(java.lang.String, java.lang.String)[pri:0, instance:excelReadandWrite.DataProviderExample@57baeedf]" name="ornHRM" duration-ms="2892" started-at="2023-02-26T16:24:19Z" data-provider="login" finished-at="2023-02-26T16:24:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ornHRM -->
+        <test-method status="PASS" signature="ornHRM(java.lang.String, java.lang.String)[pri:0, instance:excelReadandWrite.DataProviderExample@57baeedf]" name="ornHRM" duration-ms="2527" started-at="2023-02-26T16:24:22Z" data-provider="login" finished-at="2023-02-26T16:24:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ornHRM -->
+        <test-method status="PASS" signature="after()[pri:0, instance:excelReadandWrite.DataProviderExample@57baeedf]" name="after" is-config="true" duration-ms="476" started-at="2023-02-26T16:24:24Z" finished-at="2023-02-26T16:24:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- excelReadandWrite.DataProviderExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
